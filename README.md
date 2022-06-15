@@ -19,6 +19,5 @@ make_test.py : test_set 제작 및 LDA 시각화 기능
 
 ## UI 예시 
 C#을 이용하여 UI로 연동하면 다음과 같은 인터페이스에서 이상 징후를 탐지하고, 선택 시점에 대하여 LDA모델을 확인할 수 있습니다. 
+<img src="https://github.com/troy2331/HyundaiMobis_NHTSA/issues/2#issue-1272219693">
 <img src="복사해온 URL">
-<img src="복사해온 URL">
-
