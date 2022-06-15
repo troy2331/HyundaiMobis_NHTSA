@@ -9,14 +9,14 @@
 https://www-odi.nhtsa.dot.gov/downloads/
 
 ## Python 코드 구성 
-Data 원본 저장 폴더 
-ckpt : Wegiht 저장 폴더 
-models : Model 저장 폴더
-save : Custom_data 저장 폴더
-main.py : Train, Test 기능 
-make_data.py : Train_set 제작
-make_test.py : test_set 제작 및 LDA 시각화 기능 
-
+Data 원본 저장 폴더 <br/>
+ckpt : Wegiht 저장 폴더 <br/>
+models : Model 저장 폴더<br/>
+save : Custom_data 저장 폴더<br/>
+main.py : Train, Test 기능 <br/>
+make_data.py : Train_set 제작<br/>
+make_test.py : test_set 제작 및 LDA 시각화 기능 <br/>
+<br/>
 ## UI 예시 
 C#을 이용하여 UI로 연동하면 다음과 같은 인터페이스에서 이상 징후를 탐지하고, 선택 시점에 대하여 LDA모델을 확인할 수 있습니다. 
 <img src="https://github.com/troy2331/HyundaiMobis_NHTSA/issues/2#issue-1272219693">
