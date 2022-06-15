@@ -18,6 +18,7 @@ make_data.py : Train_set 제작<br/>
 make_test.py : test_set 제작 및 LDA 시각화 기능 <br/>
 <br/>
 ## UI 예시 
-C#을 이용하여 UI로 연동하면 다음과 같은 인터페이스에서 이상 징후를 탐지하고, 선택 시점에 대하여 LDA모델을 확인할 수 있습니다. 
+C#을 이용하여 UI로 연동하면 다음과 같은 인터페이스에서 이상 징후를 탐지하고, 선택 시점에 대하여 LDA모델을 확인할 수 있습니다.  <br/>
+<img src="https://user-images.githubusercontent.com/77080290/173836830-e440896c-31d4-4315-a2c4-07106a0e84f9.gif"> <br/>
 <img src="https://user-images.githubusercontent.com/77080290/173836386-e6afc6e0-32b8-48a6-bb60-8f1059a2a26d.gif">
-<img src="복사해온 URL">
+
