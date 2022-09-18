@@ -10,7 +10,7 @@ https://www-odi.nhtsa.dot.gov/downloads/
 
 ## Python 코드 구성 
 Data 원본 저장 폴더 <br/>
-ckpt : Wegiht 저장 폴더 <br/>
+ckpt : Weight 저장 폴더 <br/>
 models : Model 저장 폴더<br/>
 save : Custom_data 저장 폴더<br/>
 main.py : Train, Test 기능 <br/>
